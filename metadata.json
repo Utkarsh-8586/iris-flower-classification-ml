@@ -1,0 +1,15 @@
+{
+  "best_model_name": "SVM",
+  "f1_score": 0.9666,
+  "feature_names": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}
