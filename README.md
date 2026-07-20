@@ -100,3 +100,11 @@ streamlit run app.py
 - Deploy publicly via Streamlit Community Cloud.
 - Add a "batch prediction" CSV upload feature to the app.
 - Log experiments with MLflow.
+
+
+👨‍💻 Author
+
+UTKARSH CHAUHAN
+B.Tech CSE | Lovely Professional University (LPU)
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
