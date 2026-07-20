@@ -16,7 +16,7 @@ import os
 import matplotlib.pyplot as plt
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODELS_DIR = os.path.join(BASE_DIR, "models")
+MODELS_DIR = os.path.join(BASE_DIR)
 
 st.set_page_config(page_title="Iris Flower Classifier", page_icon="🌸", layout="centered")
 
